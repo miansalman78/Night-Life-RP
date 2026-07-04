@@ -1,0 +1,35 @@
+# Unity default gitignore
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / VS Code cache and generated files
+.vs/
+.idea/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.class
+/*.log
+/*.assetofbytes
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
